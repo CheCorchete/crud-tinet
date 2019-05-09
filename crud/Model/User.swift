@@ -7,3 +7,9 @@
 //
 
 import Foundation
+import RealmSwift
+
+// Clase Usuario, la cual con objetos llenará la lista
+class User: Object {
+    @objc dynamic var name = ""
+}

@@ -7,3 +7,13 @@
 //
 
 import Foundation
+import MGSwipeTableCell
+
+class UserCell: MGSwipeTableCell {
+    
+    @IBOutlet weak var userName: UILabel!
+    
+    override func draw(_ rect: CGRect) {
+        // Drawing code
+    }
+}

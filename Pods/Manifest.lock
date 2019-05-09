@@ -1,0 +1,26 @@
+PODS:
+  - MGSwipeTableCell (1.6.8)
+  - Realm (3.14.2):
+    - Realm/Headers (= 3.14.2)
+  - Realm/Headers (3.14.2)
+  - RealmSwift (3.14.2):
+    - Realm (= 3.14.2)
+
+DEPENDENCIES:
+  - MGSwipeTableCell
+  - RealmSwift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - MGSwipeTableCell
+    - Realm
+    - RealmSwift
+
+SPEC CHECKSUMS:
+  MGSwipeTableCell: dc4eca3212ed38a563b27d6aa7b3c01ce656c1e2
+  Realm: 179c6706e3a49dbfe112e572fd3c03d3169bea35
+  RealmSwift: 1797f272fb51c555b764fada32e82159a2c65247
+
+PODFILE CHECKSUM: 0995df87cbb101abf93f84c9bd91b25cbd774836
+
+COCOAPODS: 1.6.1

@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  crud
+
+  Created by Claudio Sepúlveda Huerta on 5/8/19.
+  Copyright © 2019 csh. All rights reserved.
+*/
+
+
+"users" = "Users";
+"saveUser" = "Save User";
+"enterNewUserName" = "New User Name";
+"newUser" = "New User";
+"cancel" = "Cancel";
+"accept" = "Accept";
+"delete" = "Delete";
+"edit" = "Edit";
+"editUser" = "Edit User";
+"deleteUser" = "Delete User?";
+"delete" = "Delete";
+"dialog.insert.valid.character" = "Inser a valid character";
